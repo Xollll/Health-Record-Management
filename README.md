@@ -4,6 +4,9 @@ The Health Record Management System is a C++ console-based application for manag
 
 Features
 Manage patient records (add, edit, delete).
+
 Schedule and cancel appointments.
+
 Handle emergency cases with priority.
+
 Load and save data from text files.
