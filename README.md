@@ -1,14 +1,9 @@
 # Health-Record-Management
 
-#The Health Record Management System is a C++ console-based application designed to manage patient records, appointments, and emergency cases in a hospital or healthcare environment.
+The Health Record Management System is a C++ console-based application for managing patient records, scheduling appointments, and handling emergencies in a hospital environment.
 
-#Features
-
-#-Patient Record Management: Add, edit, delete, and display patient records, including medical history.
-#-Appointment Scheduling: Schedule and cancel patient appointments using a linked list and queue for efficient processing.
-#-Emergency Case Handling: Manage emergency cases with a priority queue to handle critical situations.
-#-File Persistence: Save and load patient records and appointments from text files.
-#-Medical Record Tracking: Display medical records based on dates and details of each patient.
-#-Getting Started
-#-Prerequisites
-
+Features
+Manage patient records (add, edit, delete).
+Schedule and cancel appointments.
+Handle emergency cases with priority.
+Load and save data from text files.
